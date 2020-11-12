@@ -1,0 +1,12 @@
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\obj\Debug\BlockingDeal.csprojAssemblyReference.cache
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\obj\Debug\BlockingDeal.csproj.CoreCompileInputs.cache
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\bin\Debug\BlockingDeal.dll.config
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\bin\Debug\BlockingDeal.dll
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\bin\Debug\BlockingDeal.pdb
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\bin\Debug\EntityFramework.dll
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\bin\Debug\EntityFramework.xml
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\obj\Debug\BlockingDeal.csproj.CopyComplete
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\obj\Debug\BlockingDeal.dll
+C:\Learning\UnitTesting\TestProject_TypeIsolator\BlockingDeal\obj\Debug\BlockingDeal.pdb
